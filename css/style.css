@@ -67,7 +67,11 @@ a {
 
 
 .header__burger {
+  border: none;
+  background-color: transparent;
+  padding:0;
   padding-top: 4px;
+
 }
 
 .header__burger:hover {
@@ -99,7 +103,7 @@ a {
 }
 
 .menu__item {
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 
 }
 
